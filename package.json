@@ -1,0 +1,29 @@
+{
+  "name": "ajs_matchers",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DanBrwn12/ajs_matchers#readme",
+  "bugs": {
+    "url": "https://github.com/DanBrwn12/ajs_matchers/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanBrwn12/ajs_matchers.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.4.2"
+  },
+  "dependencies": {
+    "core-js": "^3.49.0"
+  }
+}
